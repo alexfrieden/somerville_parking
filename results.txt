@@ -1,60 +1,63 @@
- 133 HOLLAND ST                    652
- 81 HIGHLAND AV                    158
- 12 TYLER ST                       149
- 266 BROADWAY                      125
- 220 WASHINGTON ST                 116
- 8 BONAIR ST                       101
- 93 HIGHLAND AV                     84
- 70 PROSPECT ST                     75
- 153 SOUTH ST                       72
- 61 MEDFORD ST                      65
- 50 EVERGREEN AV                    63
- 212 ELM ST                         61
- 115 SYCAMORE ST                    60
- 259 MSGR MCGRATH HW                60
- 5 MEACHAM ST                       56
- 150 GLEN ST                        53
- 50 CROSS ST                        52
- 290 HIGHLAND AV                    51
- 5 CHERRY ST                        49
- 37 DAY ST                          49
- 230 HIGHLAND AV                    49
- 30 GORHAM ST                       48
- 293 WASHINGTON ST                  48
- 167 HOLLAND ST                     46
- 14 CHESTNUT ST                     45
- 346 SUMMER ST                      44
- 169 HOLLAND ST                     43
- 255 ELM ST                         43
- 230 SOMERVILLE AV                  43
- 20 HOLLAND ST                      43
- 40 MERRIAM ST                      31
- 133 HOLLAND ST        BEA          30
- 89 ELMWOOD ST                      30
- 212 SCHOOL ST                      30
- 66 SOUTH ST                        30
- 259 LOWELL ST                      30
- 240 ELM ST                         30
- 88 ELECTRIC AV                     29
- 363 HIGHLAND AV                    28
- 15 PARK AV                         28
-17 IVALOO ST           100          27
- 28 DANE ST                         27
- 21 DANE ST                         26
- 74 CHANDLER ST                     26
- 43 OAK ST                          25
- 217 SOMERVILLE AV                  25
- 300 BROADWAY                       25
- 301 SUMMER ST                      24
- 78 BONAIR ST                       24
- 35 CHARLESTOWN ST                  24
- 66 UNION SQ                        24
- 474 BROADWAY          28           24
- 47 WALLACE ST                      23
- 8 MT PLEASANT ST                   23
- 612 BROADWAY                       23
- 201 WILLOW AV                      23
-265 ELM ST             3            23
- 29 HARDING ST                      22
- 41 RUSSELL ST                      22
- 14 CHAPEL ST                       21
+st_addr               unit_num
+98 PEARL ST           2           10
+236 SOMERVILLE AV     2            9
+6 THURSTON ST         2            8
+109 PEARSON RD        2            8
+18 BOND ST            2            8
+59 CHURCH ST          2            8
+364 HIGHLAND AV       1            8
+21 BOSTON ST          1            7
+88 GILMAN ST          2            7
+19 ALBION ST          2            7
+28 CURTIS AV          2            7
+79 GORDON ST          2            7
+16 PARK AV            2L           7
+11 HAWKINS ST         1            7
+223 SCHOOL ST         1            7
+125 ALEWIFE BROOK PK  33           6
+4 ABERDEEN RD         3            6
+19 GORDON ST          1            6
+14 ILLINOIS AV        1            6
+88 GILMAN ST          3            6
+39 BRADLEY ST         2            6
+71 CROSS ST           2            6
+39 TEMPLE ST          1            6
+10 MOORE ST           1            6
+28 CHERRY ST          2            6
+12 HOMER SQ           1            6
+132 CENTRAL ST        1            6
+24 BURNHAM ST         3            6
+66 ADAMS ST           1            6
+115 WALNUT ST         2            6
+                                  ..
+5 FORSTER ST          2            6
+915 BROADWAY          2            6
+8 WESLEY ST           2            5
+202 PEARL ST          1            5
+15 IRVINGTON RD       2            5
+48 MAIN ST            3            5
+70 PERKINS ST         410          5
+77 BAY STATE AV       2            5
+376 MEDFORD ST        1            5
+8 NASHUA ST           1            5
+62 GRANT ST           1            5
+50 ALSTON ST          1            5
+216 SOMERVILLE AV     1            5
+41 CLYDE ST           1            5
+248 BROADWAY          2            5
+10 JAQUES ST          2            5
+51 BOW ST             2            5
+101 TEMPLE RD         2            5
+24 FARRAGUT AV        2            5
+53 PACKARD AV         2            5
+75 PEARL ST           1            5
+65 PEARSON RD         2            5
+96 ORCHARD ST         2            5
+12 PRESCOTT ST        2            5
+14 FAIRMOUNT AV       2            5
+16 OTIS ST            3            5
+19 WALKER ST          2            5
+1 MONTROSE ST         1            5
+600 BROADWAY          C            5
+67 MARION ST          2            5
+Length: 70, dtype: int64
