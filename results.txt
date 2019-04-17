@@ -1,0 +1,60 @@
+ 133 HOLLAND ST                    652
+ 81 HIGHLAND AV                    158
+ 12 TYLER ST                       149
+ 266 BROADWAY                      125
+ 220 WASHINGTON ST                 116
+ 8 BONAIR ST                       101
+ 93 HIGHLAND AV                     84
+ 70 PROSPECT ST                     75
+ 153 SOUTH ST                       72
+ 61 MEDFORD ST                      65
+ 50 EVERGREEN AV                    63
+ 212 ELM ST                         61
+ 115 SYCAMORE ST                    60
+ 259 MSGR MCGRATH HW                60
+ 5 MEACHAM ST                       56
+ 150 GLEN ST                        53
+ 50 CROSS ST                        52
+ 290 HIGHLAND AV                    51
+ 5 CHERRY ST                        49
+ 37 DAY ST                          49
+ 230 HIGHLAND AV                    49
+ 30 GORHAM ST                       48
+ 293 WASHINGTON ST                  48
+ 167 HOLLAND ST                     46
+ 14 CHESTNUT ST                     45
+ 346 SUMMER ST                      44
+ 169 HOLLAND ST                     43
+ 255 ELM ST                         43
+ 230 SOMERVILLE AV                  43
+ 20 HOLLAND ST                      43
+ 40 MERRIAM ST                      31
+ 133 HOLLAND ST        BEA          30
+ 89 ELMWOOD ST                      30
+ 212 SCHOOL ST                      30
+ 66 SOUTH ST                        30
+ 259 LOWELL ST                      30
+ 240 ELM ST                         30
+ 88 ELECTRIC AV                     29
+ 363 HIGHLAND AV                    28
+ 15 PARK AV                         28
+17 IVALOO ST           100          27
+ 28 DANE ST                         27
+ 21 DANE ST                         26
+ 74 CHANDLER ST                     26
+ 43 OAK ST                          25
+ 217 SOMERVILLE AV                  25
+ 300 BROADWAY                       25
+ 301 SUMMER ST                      24
+ 78 BONAIR ST                       24
+ 35 CHARLESTOWN ST                  24
+ 66 UNION SQ                        24
+ 474 BROADWAY          28           24
+ 47 WALLACE ST                      23
+ 8 MT PLEASANT ST                   23
+ 612 BROADWAY                       23
+ 201 WILLOW AV                      23
+265 ELM ST             3            23
+ 29 HARDING ST                      22
+ 41 RUSSELL ST                      22
+ 14 CHAPEL ST                       21
